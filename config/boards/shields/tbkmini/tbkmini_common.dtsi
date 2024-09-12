@@ -17,6 +17,7 @@
 		label = "KSCAN";
 
 		diode-direction = "row2col";
+		 wakeup-source;
 	};
 
 	// TODO: RGB node(s)
